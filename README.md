@@ -148,10 +148,6 @@ Length: Keep each message under 80 words.
 
 ---
 
-
-
----
-
 ## 🤝 Contributing
 
 PRs welcome. Open an issue first for major changes.
