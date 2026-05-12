@@ -148,13 +148,7 @@ Length: Keep each message under 80 words.
 
 ---
 
-## 📸 Screenshots
 
-> _Add screenshots here after first run_
-
-| Input Form | Generated Messages |
-|---|---|
-| _(screenshot)_ | _(screenshot)_ |
 
 ---
 
